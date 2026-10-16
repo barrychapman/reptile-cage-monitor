@@ -1,0 +1,10 @@
+{
+  "humidity_low": 59.0,
+  "humidity_high": 73.0,
+  "smoothing_samples": 3,
+  "max_run_seconds": 30,
+  "cooldown_seconds": 120,
+  "irrigation_enabled": false,
+  "hot_probe_id": "28-000000cab2e9",
+  "cool_probe_id": "28-000000caa4ee"
+}
